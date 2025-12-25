@@ -20,7 +20,7 @@ graph = {
     'Bole Medhanealem': ['Kazanchis', 'Saris'],
     'Kazanchis': ['Bole Medhanealem', 'Meskel Square', 'Arat Kilo'],
     'Meskel Square': ['Kazanchis', 'Mexico Square', 'Arat Kilo', 'Saris'],
-    'Arat Kilo': ['Kazanchis', 'Meskel Square', 'Piassa', 'Merkato'],
+    'Arat Kilo': ['Kazanchis', 'Meskel Square', 'Piassa'],
     'Piassa': ['Arat Kilo', 'Merkato'],
     'Mexico Square': ['Meskel Square', 'Lideta'],
     'Lideta': ['Mexico Square', 'Tor Hailoch'],
